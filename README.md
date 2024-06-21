@@ -52,7 +52,7 @@
 
 [![Resume Badge](https://img.shields.io/badge/-MyResume-000?&logo=abb-robotstudio&logoColor=FF9E0F&link=https://drive.google.com/file/d/1omKarJbOw5D71tkIkaZ-ls4JDZxtcfDc/view?usp=drive_link)](https://drive.google.com/file/d/1omKarJbOw5D71tkIkaZ-ls4JDZxtcfDc/view?usp=drive_link)
 ![Contact Me](https://img.shields.io/badge/-+923367065720-000?&logo=whatsapp&logoColor=25D366)
-![Skype](https://img.shields.io/badge/-tf@softwarealliance.dk-000?&logo=Skype&logoColor=00AFF0)
+![Skype](https://img.shields.io/badge/-arsamrahmaan31@gmail.com-000?&logo=Skype&logoColor=00AFF0)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **PROFILE VISITS** 
 
