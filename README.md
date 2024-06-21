@@ -7,7 +7,7 @@
 [![AWS](https://img.shields.io/badge/-AWS_Certified_Cloud_Practitioner-000?&logo=Amazon-AWS&logoColor=FFBE00&link=https://www.youracclaim.com/badges/57e754a2-e107-459f-9b08-e420f57682c7/linked_in)](https://www.youracclaim.com/badges/57e754a2-e107-459f-9b08-e420f57682c7/linked_in)
 [![AWS](https://img.shields.io/badge/-Microsoft_Certified:_Azure_Administrator_Associate-000?&logo=Microsoft-Azure&logoColor=0089D6&link=https://www.credly.com/badges/9ff4a1f1-1c77-425f-b02c-056f9fb779c1?source=linked_in_profile)](https://www.credly.com/badges/9ff4a1f1-1c77-425f-b02c-056f9fb779c1?source=linked_in_profile)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**TECHNOLOGIES/MODERN-TECH(Learning & Working On)**
+**TECHNOLOGIES/MODERN-TECH**
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
@@ -50,7 +50,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **RESUME/CALLME(For Immediate Contact)**
 
-[![Resume Badge](https://img.shields.io/badge/-MyResume-000?&logo=abb-robotstudio&logoColor=FF9E0F&link=https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)](https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-MyResume-000?&logo=abb-robotstudio&logoColor=FF9E0F&link=https://drive.google.com/file/d/1omKarJbOw5D71tkIkaZ-ls4JDZxtcfDc/view?usp=drive_link)](https://drive.google.com/file/d/1omKarJbOw5D71tkIkaZ-ls4JDZxtcfDc/view?usp=drive_link)
 ![Contact Me](https://img.shields.io/badge/-+923367065720-000?&logo=whatsapp&logoColor=25D366)
 ![Skype](https://img.shields.io/badge/-tf@softwarealliance.dk-000?&logo=Skype&logoColor=00AFF0)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
