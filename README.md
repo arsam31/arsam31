@@ -1,16 +1,82 @@
-## Hi there 👋
 
-<!--
-**arsam31/arsam31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GFDGFDGDFGDFGDFGDFGDFGDFGDFGD](https://github.com/arsam31/arsam31/blob/main/arsam2.gif)
 
-Here are some ideas to get you started:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm Arsam
+
+8+ years building software — from late nights on Stack Overflow to shipping green-field financial systems and scalable backend infrastructures.
+
+Then AI happened… and something in my brain just flipped. Started turning small ideas into real projects during office hours. 
+Got laid off for it. Hurt a bit… but also felt weirdly right.
+
+Now fully all-in on building real AI products. Currently working on **Neural Dates** — agents that pre-date on behalf of humans — plus a bunch of strange experiments.
+
+No big claims. Just building, breaking, learning in public.
+
+If you want to watch the journey unfold, follow along.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**CERTIFICATIONS/CREDENTIALS**
+
+[![AWS](https://img.shields.io/badge/-AWS_Certified_Cloud_Practitioner-000?&logo=Amazon-AWS&logoColor=FFBE00&link=https://www.youracclaim.com/badges/57e754a2-e107-459f-9b08-e420f57682c7/linked_in)](https://www.youracclaim.com/badges/57e754a2-e107-459f-9b08-e420f57682c7/linked_in)
+[![AWS](https://img.shields.io/badge/-Microsoft_Certified:_Azure_Administrator_Associate-000?&logo=Microsoft-Azure&logoColor=0089D6&link=https://www.credly.com/badges/9ff4a1f1-1c77-425f-b02c-056f9fb779c1?source=linked_in_profile)](https://www.credly.com/badges/9ff4a1f1-1c77-425f-b02c-056f9fb779c1?source=linked_in_profile)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**TECHNOLOGIES/MODERN-TECH**
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=azure-devops&logoColor=0078D7)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira-software)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis&logoColor=DC382D)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=Rabbitmq&logoColor=FF6600)
+![MicroServicesArchitecture](https://img.shields.io/badge/-Microservices_Architecture-000?&logo=micro:bit&logoColor=00ED00)
+![ServerLess](https://img.shields.io/badge/-ServerLess-000?&logo=serverless&logoColor=FD5750)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**SOCIALMEDIA/Q&A(Happy To connect With Fellow Professionals)**
+
+[![StackOverFlow Badge](https://img.shields.io/badge/-StackOverFlow-000?&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/users/8907014/arsam?tab=profile)](https://stackoverflow.com/users/8907014/arsam?tab=profile)
+[![HAckerRank Badge](https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank&logoColor=2EC866&link=https://www.hackerrank.com/arsamrahmaan31)](https://www.hackerrank.com/arsamrahmaan31)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-000?&logo=leetcode&logoColor=F89F1B&link=https://leetcode.com/arsamrahmaan31/)](https://leetcode.com/arsamrahmaan31/)
+[![Dev Badge](https://img.shields.io/badge/-Dev.to-000?&logo=dev.to&logoColor=0A0A0A&link=https://dev.to/arsam31)](https://dev.to/arsam31)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**FRONTEND/BACKEND**
+
+![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=c-sharp&logoColor=239120)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=563D7C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=html5&logoColor=1572B6)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**IDE/SERVICE-PROVIDER**
+
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-000?&logo=visual-studio&logoColor=5C2D91)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudio_Code-000?&logo=visual-studio-code&logoColor=007ACC)
+![MicrosoftSqlServer](https://img.shields.io/badge/-Microsoft_Sql_Server-000?&logo=microsoft-sql-server&logoColor=CC2927)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&logoColor=EA77FF)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**PROFILE VISITS** 
+
+[![Arsam's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8907014&theme=dark)](https://stackoverflow.com/users/8907014/hafiz-arsam-rahmaan)
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+
+<!--<details>
+<!--<summary>
+  MORE ABOUT ME
+</summary>
+<!-- https://simpleicons.org/(for icons) -->
+<!--**Other projects**
+
+<!--[![Overwatch](https://img.shields.io/badge/-📊 Overwatch-000?)](https://github.com/adamalston/Overwatch)
+[![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)
+
+<!--</details>
+
