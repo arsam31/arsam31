@@ -5,16 +5,15 @@
 
 # 👋 Hi, I'm Arsam
 
-8+ years building software — from late nights on Stack Overflow to shipping green-field financial systems and scalable backend infrastructures.
+8+ years building software — from long nights digging through Stack Overflow threads to shipping green-field projects in financial systems and scalable backend infrastructure. Over time I learned how to design systems that run quietly in the background, handle real workloads, and solve real problems without much noise around them.
 
-Then AI happened… and something in my brain just flipped. Started turning small ideas into real projects during office hours. 
-Got laid off for it. Hurt a bit… but also felt weirdly right.
+Then AI arrived and something genuinely shifted in how I worked and thought about building. Ideas that once felt like months of planning and delivery suddenly started taking days or weeks, and that change impressed me more than I expected. When you realize you can turn small ideas into meaningful projects in a short time with less friction, you naturally become more curious and more eager to build. I started experimenting in my free time first, exploring different concepts and trying to understand what was now possible.
 
-Now fully all-in on building real AI products. Currently working on **Neural Dates** — agents that pre-date on behalf of humans — plus a bunch of strange experiments.
+Eventually that curiosity followed me into small pockets of time during office hours as well, where I kept building personal experiments alongside my regular work. It didn’t take long before that became an issue and I was laid off. It hurt a little — anyone would feel that — but it also felt strangely right, almost like a quiet turning point. I had enough saved to pay rent and give myself a chance to focus fully on building instead of waiting for the “right time.”
 
-No big claims. Just building, breaking, learning in public.
+Now I’m all-in on creating real AI products and learning in public. I’m currently working on **Neural Dates** — agents that pre-date on behalf of humans — along with a handful of strange side experiments that help me understand how far this space can go. I’m not making big claims or pretending to have everything figured out; I’m simply building, breaking things, learning from mistakes, and sharing the process as it unfolds. 
 
-If you want to watch the journey unfold, follow along.
+If you want to follow along and watch the journey grow naturally over time, you’re welcome to join.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
