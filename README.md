@@ -11,7 +11,7 @@ Then AI arrived and something genuinely shifted in how I worked and thought abou
 
 Eventually that curiosity followed me into small pockets of time during office hours as well, where I kept building personal experiments alongside my regular work. It didn’t take long before that became an issue and I was laid off. It hurt a little — anyone would feel that — but it also felt strangely right, almost like a quiet turning point. I had enough saved to pay rent and give myself a chance to focus fully on building instead of waiting for the “right time.”
 
-Now I’m all-in on creating real AI products and learning in public. I’m currently working on **PnL Partners** — agents that pre-date on behalf of humans — along with a handful of strange side experiments that help me understand how far this space can go. I’m not making big claims or pretending to have everything figured out; I’m simply building, breaking things, learning from mistakes, and sharing the process as it unfolds. 
+Now I’m all-in on creating real AI products and learning in public. I’m currently working on **PnL Partners** formerly known as Neural Dates — agents that pre-date on behalf of trenchers — along with a handful of strange side experiments that help me understand how far this space can go. I’m not making big claims or pretending to have everything figured out; I’m simply building, breaking things, learning from mistakes, and sharing the process as it unfolds. 
 
 If you want to follow along and watch the journey grow naturally over time, you’re welcome to join.
 
